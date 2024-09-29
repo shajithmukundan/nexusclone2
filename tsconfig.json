@@ -1,6 +1,6 @@
 {
     "compilerOptions": {
-        "target": "ES5",
+        "target": "7.0.42",
         "noImplicitAny": true,
         "outDir": "built",
         "rootDir": "."
